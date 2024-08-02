@@ -1,5 +1,5 @@
 [Unit]
-Description=prabhjyoth.eu website caddy
+Description=dpbriggs.ca website caddy
 After=network.target
 
 [Service]

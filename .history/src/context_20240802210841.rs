@@ -60,7 +60,7 @@ lazy_static! {
 lazy_static! {
     static ref STATIC_SITE_CONTEXT_KV: SiteContextKv = {
         site_context! {
-            "domain_name" =>  "prabhjyoth.eu",
+            "domain_name" =>  "dpbriggs.ca",
             "nav_site_href" =>  "/",
             "root_uri" =>  "/",
             "blog_uri" =>  "/blog",
@@ -72,13 +72,13 @@ lazy_static! {
             "rss_uri" =>  "/rss",
             "crash_uri" =>  "/500",
             "web_sep" =>  "--",
-            "admin_email" =>  "i@prabhjyoth.eu",
-            "full_name" =>  "Rab Mattummal",
-            "internet_handle" =>  "prabhjyoth",
-            "my_email" =>  "i@prabhjyoth.eu",
-            "github_url" => "https://github.com/mattummal",
-            "github_repo_url" => "https://github.com/mattummal/rustyrab",
-            "linkedin_url" => "https://www.linkedin.com/in/prabhjyoth"
+            "admin_email" =>  "david@dpbriggs.ca",
+            "full_name" =>  "David Briggs",
+            "internet_handle" =>  "dpbriggs",
+            "my_email" =>  "david@dpbriggs.ca",
+            "github_url" => "https://github.com/dpbriggs",
+            "github_repo_url" => "https://github.com/dpbriggs/dpbriggs-blog",
+            "linkedin_url" => "https://www.linkedin.com/in/dpbriggs"
         }
     };
 }

@@ -75,10 +75,10 @@ lazy_static! {
             "admin_email" =>  "i@prabhjyoth.eu",
             "full_name" =>  "Rab Mattummal",
             "internet_handle" =>  "prabhjyoth",
-            "my_email" =>  "i@prabhjyoth.eu",
-            "github_url" => "https://github.com/mattummal",
-            "github_repo_url" => "https://github.com/mattummal/rustyrab",
-            "linkedin_url" => "https://www.linkedin.com/in/prabhjyoth"
+            "my_email" =>  "david@prabhjyoth.eu",
+            "github_url" => "https://github.com/dpbriggs",
+            "github_repo_url" => "https://github.com/dpbriggs/dpbriggs-blog",
+            "linkedin_url" => "https://www.linkedin.com/in/dpbriggs"
         }
     };
 }

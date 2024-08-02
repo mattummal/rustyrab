@@ -3,11 +3,11 @@
 #+TAGS: rust tera org-mode
 #+OPTIONS: html-style:nil num:nil
 <2019-02-09 Sat>
-#+ATTR_HTML: target="_blank"
+#+ATTR_HTML: target="_blank" 
 
 * The joys of Rust, Tera, and CSS
 
-I've been meaning to use the [[https://prabhjyoth.eu][prabhjyoth.eu]] domain for a while now,
+I've been meaning to use the [[https://dpbriggs.ca][dpbriggs.ca]] domain for a while now,
 and I wanted to keep learning Rust, so this blog was born.
 I'm happy with the result, but by god, it was a journey.
 This article will detail the challenges and successes of making this website.
@@ -293,7 +293,7 @@ This part is actually pretty easy. I use [[https://caddyserver.com/][Caddy]] to 
 The entire production configuration is just:
 
 #+begin_src Caddyfile
-prabhjyoth.eu www.prabhjyoth.eu
+dpbriggs.ca www.dpbriggs.ca
 
 gzip
 
@@ -304,7 +304,7 @@ tls {
 }
 #+end_src
 
-The important bits are the first line (=prabhjyoth.eu www.prabhjyoth.eu=) and the =proxy= line.
+The important bits are the first line (=dpbriggs.ca www.dpbriggs.ca=) and the =proxy= line.
 
 Caddy uses the domain along with [[https://letsencrypt.org/][Lets Encrypt]] to get certs for HTTPS.
 It then proxies Rocket, forwarding all request to =localhost:8000=.
@@ -314,7 +314,7 @@ On the VM I just have two =tmux= sessions, one which holds Caddy and the other h
 Then the process to deploy the site is:
 
 1. =cargo test= and =git push=
-2. =git pull= to get the latest stuff
+2. =git pull= to get the latest stuff 
 3. =cargo build --release=
 4. =tmux attach -t 0= and =./run_site.sh=
 5. =tmux attach -t 5= and =./run_caddy.sh=
@@ -332,4 +332,4 @@ And we're deployed. That's it ™
 
 Thanks for reading,
 
-David Briggs (=email@prabhjyoth.eu=)
+David Briggs (=email@dpbriggs.ca=)

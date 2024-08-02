@@ -4,7 +4,7 @@
 #+TAGS: rust tera org-mode
 #+OPTIONS: html-style:nil num:nil
 <2019-02-23 Sat>
-#+ATTR_HTML: target="_blank"
+#+ATTR_HTML: target="_blank" 
 
 
 * Tips for Surviving the University of Waterloo
@@ -70,7 +70,7 @@ Or if your long-term goal is career success, and you're failed previously at com
 Your later deltas would be to implement identified solutions.
 
 Now, this is simultaneously a little robotic and highly personal, and that's on purpose.
-If modern times have shown anything, it's that gamified systems are easier to follow.
+If modern times have shown anything, it's that gamified systems are easier to follow. 
 (see: mobile games, snowball debt repayment, Chinese social credit score)
 
 A personal example of this is the process I underwent to get into UW.
@@ -155,7 +155,7 @@ There's an immense amount of advice on the internet about all three of these, bu
 Resume:
 1. It must stand out visually but must be familiar.
 2. Be as concise as humanly possible, and convey what *you* accomplished.
-3. Use active voice. If can stick "by zombies" at the end of the sentence, it won't feel good to the recruiter.
+3. Use active voice. If can stick "by zombies" at the end of the sentence, it won't feel good to the recruiter.  
 
 Interview:
 1. Practice beforehand; map your skills and experience to the position.
@@ -163,7 +163,7 @@ Interview:
 3. Communicate communicate communicate, if you need a second to think, tell them.
 
 Actually working:
-1. Be yourself, but don't be a know-it-all.
+1. Be yourself, but don't be a know-it-all. 
 2. Ask questions. Fuck up. Learn. That's the point of co-op.
 3. Dress nicely and be friendly. If you're introverted like me, take the effort to get to know your co-workers.
 
@@ -171,7 +171,7 @@ Actually working:
 
 This section will probably yield the best time savings relative to the effort.
 
-In my [[https://prabhjyoth.eu/blog/spacemacs-for-fun-and-profit][previous blog article]] I described the importance of having an optimized system for editing text,
+In my [[https://dpbriggs.ca/blog/spacemacs-for-fun-and-profit][previous blog article]] I described the importance of having an optimized system for editing text,
 and this section will deal with having optimized systems for producing documents.
 
 I've developed a few such templates, and I'll share three of them.

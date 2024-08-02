@@ -72,13 +72,13 @@ lazy_static! {
             "rss_uri" =>  "/rss",
             "crash_uri" =>  "/500",
             "web_sep" =>  "--",
-            "admin_email" =>  "i@prabhjyoth.eu",
-            "full_name" =>  "Rab Mattummal",
-            "internet_handle" =>  "prabhjyoth",
-            "my_email" =>  "i@prabhjyoth.eu",
-            "github_url" => "https://github.com/mattummal",
-            "github_repo_url" => "https://github.com/mattummal/rustyrab",
-            "linkedin_url" => "https://www.linkedin.com/in/prabhjyoth"
+            "admin_email" =>  "david@prabhjyoth.eu",
+            "full_name" =>  "David Briggs",
+            "internet_handle" =>  "dpbriggs",
+            "my_email" =>  "david@prabhjyoth.eu",
+            "github_url" => "https://github.com/dpbriggs",
+            "github_repo_url" => "https://github.com/dpbriggs/dpbriggs-blog",
+            "linkedin_url" => "https://www.linkedin.com/in/dpbriggs"
         }
     };
 }

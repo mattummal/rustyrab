@@ -1,5 +1,5 @@
 [Unit]
-Description=prabhjyoth.eu website rocket
+Description=dpbriggs.ca website rocket
 After=network.target
 
 [Service]

@@ -1,9 +1,9 @@
-#+AUTHOR: David Briggs <email@prabhjyoth.eu>
+#+AUTHOR: David Briggs <email@dpbriggs.ca>
 
-* prabhjyoth.eu
+* dpbriggs.ca
 [[https://travis-ci.org/dpbriggs/dpbriggs-blog.svg?branch=master][https://travis-ci.org/dpbriggs/dpbriggs-blog.svg?branch=master]]
 
-This repository holds my personal website [[https://prabhjyoth.eu][prabhjyoth.eu]].
+This repository holds my personal website [[https://dpbriggs.ca][dpbriggs.ca]].
 
 
 Feel free to fork and modify this website. Please note this website
