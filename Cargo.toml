@@ -1,8 +1,8 @@
 [package]
-name = "dpbriggs-blog"
+name = "prabhjyoth-eu"
 version = "0.2.0"
-authors = ["David Briggs <david@dpbriggs.ca>"]
-edition = "2018"
+authors = ["Prabhjyoth Mattummal <i@prabhjyoth.eu>"]
+edition = "2021"
 
 [dependencies]
 rocket = "0.4.10"
